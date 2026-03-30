@@ -62,4 +62,4 @@ Do not commit API keys, `.env` files, local model credentials, or generated buil
 
 ---
 
-Made with 💛 Sean G
+Made with 💛 by Sean G
